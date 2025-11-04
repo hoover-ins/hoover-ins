@@ -2,20 +2,17 @@
 ## About Hoover
 With its eminent scholars and world-renowned Library and Archives, the Hoover Institution is a public policy think tank that seeks to improve the human condition by advancing ideas that promote economic opportunity and prosperity, while securing and safeguarding peace for America and all mankind.
 ## Research
-The challenges our country faces require us to be provocative and wide-ranging in our thinking. The Hoover fellowship has a specific focus on the key areas of focus that seek to address the pressing needs faced by policy makers at all levels of government, from state and local leaders to national and international leaders:
+The challenges our country faces require us to be provocative and wide-ranging in our thinking. The Hoover fellowship has a specific focus on the key areas of focus that seek to address the pressing needs faced by policy makers at all levels of government, from state and local leaders to national and international leaders. This repository is dedicated to policy in the spheres of:
 - Economics
-- Education
 - Energy & Environment
 - Health Care
-- History
-- Immigration
-- International Affairs
-- Key Countries / Regions
-- Law & Policy
-- Politics & Public Opinion
-- Science & Technology
-- Security & Defense
 - State & Local
+## Fiscal Policy Initiative
+The Fiscal Policy Initiative (FPI) conducts research on the most pressing areas of federal fiscal policy. Drawing on economic scholarship and policy expertise, the Initiative provides credible, actionable analysis to inform lawmakers and the public. Its work covers the following issues:
+- Tax Policy: FPI examines how federal tax policy affects labor supply, investment, productivity, and long-term economic growth. Research includes the fiscal and economic effects of potential tax reforms, the structure and impact of international taxation, and potential behavioral responses of workers, businesses, and investors from tax policy changes.
+- Entitlement Reform: FPI evaluates the long-term sustainability and economic effects of major federal entitlement programs, including Social Security, Medicare, and Medicaid, as well as low-income support programs such as the Supplemental Nutrition Assistance Program (SNAP) and Temporary Assistance for Needy Families (TANF). Research explores how best to adjust these programs to improve their incentives and long-run fiscal sustainability.
+- Budget Process Reform: FPI studies the federal budget process and proposals to enhance transparency and enforce fiscal discipline. Areas of focus include reforms to Congressional budget procedures, improvements to budgetary scoring methodologies, and the design of effective fiscal rules.
+- Federal Borrowing and Macroeconomic Risk: FPI analyzes the consequences of rising federal borrowing for interest rates, inflation, and private investment. Research also examines the risks that excessive debt poses to long-term economic growth and stability.
 ## Mission Statement
 Now more than five decades old, Herbert Hoover’s 1959 statement to the Board of Trustees of Stanford University on the purpose and scope of the Hoover Institution continues to guide and define its mission in the twenty-first century.
 

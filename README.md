@@ -3,16 +3,31 @@
 With its eminent scholars and world-renowned Library and Archives, the Hoover Institution is a public policy think tank that seeks to improve the human condition by advancing ideas that promote economic opportunity and prosperity, while securing and safeguarding peace for America and all mankind.
 ## Research
 The challenges our country faces require us to be provocative and wide-ranging in our thinking. The Hoover fellowship has a specific focus on the key areas of focus that seek to address the pressing needs faced by policy makers at all levels of government, from state and local leaders to national and international leaders:
-| Column 1 | Column 2 |
-|----------|----------|
-| • Economics | • Immigration |
-| • Education | • International Affairs |
-| • Energy & Environment | • Key Countries / Regions |
-| • Health Care | • Law & Policy |
-| • History | • Politics & Public Opinion |
-|  | • Science & Technology |
-|  | • Security & Defense |
-|  | • State & Local |
+<div style="display: flex;">
+<div style="flex: 1;">
+
+- Economics
+- Education
+- Energy & Environment
+- Health Care
+- History
+- Immigration
+- International Affairs
+
+</div>
+<div style="flex: 1;">
+
+- Key Countries / Regions
+- Law & Policy
+- Politics & Public Opinion
+- Science & Technology
+- Security & Defense
+- State & Local
+
+</div>
+</div>
+
+
 ## Mission Statement
 Now more than five decades old, Herbert Hoover’s 1959 statement to the Board of Trustees of Stanford University on the purpose and scope of the Hoover Institution continues to guide and define its mission in the twenty-first century.
 

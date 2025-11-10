@@ -1,7 +1,7 @@
 <img src="HooverCampus.jpg" alt="Hoover Tower" style="width: 100%;">
 
 ## The Hoover's Institution's GitHub
-Welcome to the Hoover Institution's GitHub profile. The purpose of this profile is to host repositories that serve as a collaborative platform for scholars to examine, reproduce, and build upon research code and projects from the Hoover Institution's Fiscal Policy Initiative and State and Local Governance Initiative. By making our work openly available, we aim to promote transparency in policy research and enable other researchers to extend and adapt our analytical methods for their own scholarship.
+Welcome to the Hoover Institution's GitHub profile. The purpose of this profile is to host repositories that serve as a collaborative platform for scholars to examine, reproduce, and build upon research code and projects from the Hoover Institution's Fiscal Policy Initiative and State and Local Governance Initiative under the direction of Joshua Rauh. By making our work openly available, we aim to promote transparency in policy research and enable other researchers to extend and adapt our analytical methods for their own scholarship.
 
 ## About Hoover
 With its eminent scholars and world-renowned Library and Archives, the Hoover Institution is a public policy think tank that seeks to improve the human condition by advancing ideas that promote economic opportunity and prosperity, while securing and safeguarding peace for America and all mankind.
